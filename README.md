@@ -16,3 +16,16 @@ PCB:
 Case (made on onshape):
 ![image](https://github.com/user-attachments/assets/593b7593-364f-45bb-bb85-41218b4bdd6e)
 
+
+BOM:
+1x seeed xiao rp2040
+
+1x 1x04 pinheader
+
+9x tht diodes
+
+9x 1.00u cherry mx switches
+4x 3.2mm screws
+
+4X 3.2mm Bolts
+
