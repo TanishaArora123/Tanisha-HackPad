@@ -14,7 +14,8 @@ PCB:
 
 
 Case (made on onshape):
-<img width="736" height="413" alt="image" src="https://github.com/user-attachments/assets/c956775e-9bb1-4ba1-9887-49ca5d174e7c" />
+<img width="723" height="421" alt="image" src="https://github.com/user-attachments/assets/b0961618-7292-43eb-8f45-8c966350e681" />
+
 
 
 
